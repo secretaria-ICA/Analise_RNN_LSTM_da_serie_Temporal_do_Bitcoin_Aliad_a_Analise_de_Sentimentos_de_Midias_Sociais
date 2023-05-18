@@ -1,5 +1,5 @@
 
-# Análise RNN-LSTM da serie temporal do Bitcoin aliada à análise de sentimentos de mídias sociais com VADER (Valence Aware Dictionary and sEntiment Reasoner)
+# Análise_RNN_LSTM_da_serie_Temporal_do_Bitcoin_Aliad_a_Analise_de_Sentimentos_de_Midias_Sociais_com_VADER_(Valence_Aware_Dictionary_and_Sentiment_Reasoner)
 
 #### Aluno:		[Alexandre Lima Santiago de Pinho](https://github.com/ALSPinho)
 #### Orientador:	[Leonardo Fonte Mendoza]()
